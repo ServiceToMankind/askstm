@@ -1,2 +1,2 @@
 # covid.stmorg.in
-covid website
+STM FOR STUDENTS 
