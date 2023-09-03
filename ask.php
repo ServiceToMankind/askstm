@@ -56,7 +56,7 @@ include('includes/functions.php');
               <a href="blog.html" class="nav-link">Blog</a>
             </li> -->
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="ask" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>
