@@ -6,7 +6,7 @@ include('includes/functions.php');
 <html lang="en">
 
 <head>
-    <title>STM FIGHTS WITH COVID</title>
+    <title>STM IS WITH STUDENTS</title>
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
@@ -73,7 +73,7 @@ include('includes/functions.php');
                         We <strong>Help</strong> You !
                     </h1>
                     <p>Our Volunteers Are Giving Thier 100% Effort To Help You.</p>
-                    <p>Please mention your hospital details too...</p>
+                    <p>Please mention your problems</p>
                 </div>
 
                 <div class="col-lg-8 mx-auto col-md-10 col-12">
@@ -163,7 +163,7 @@ include('includes/functions.php');
 
                 <div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12" data-aos="fade-up" data-aos-delay="400">
                     <p class="copyright-text">
-                        Copyright &copy; 2021 Stmorg.in
+                        Copyright &copy; 2023 Stmorg.in
                         <br />
                     </p>
                 </div>
